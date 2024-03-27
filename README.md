@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.JS - Multiple Layouts with NotFound Page
 
-## Getting Started
+![YouTube Video](/thumbnail.png "Watch the video")
+See on YouTube [Click here](https://youtu.be/gq6fvFjznHE?si=VJKIUuIP-QnFwPk6 "Watch on YouTube")
 
-First, run the development server:
+Learn how to build a complete application with Next.JS 14! 👨🏻‍💻
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+In this tutorial, you will learn how to create a multi-layout structure and customize the route not found page using Next.JS 14.
+The video is in English, I'm learning the language, so bear with me. 🤣🤣🤣
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### What you will learn:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* Create different layouts for your application
+* Customize 404 page
+* Use the latest features of Next.JS 14
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Resources:
 
-## Learn More
+* Next.JS documentation:
+  * https://nextjs.org/docs
 
-To learn more about Next.js, take a look at the following resources:
+### How to start
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+* Clone the repository
+* Run `npm install` at root folder
+* You can run the application running `npm run dev` command
+* Open the [page](http://localhost:3000)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+> Feel free to comment and subscribe to the [YouTube Channel](https://youtube.com/c/Jhonatec).
+> 
+> You can find me at https://www.jhonatec.com/
+> 
+> See you there!
